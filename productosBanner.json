@@ -1,0 +1,46 @@
+{
+    "Jamones": [
+        {
+            "Nombre": "Jamon de Pierna",
+            "Marca": "Millennium",
+            "Calidad": "5",
+            "ImgSrc": "/images/pierna.webp"
+        },
+        {
+            "Nombre": "Jamon de Pavo",
+            "Marca": "Millennium",
+            "Calidad": "5",
+            "ImgSrc": "/images/pavo.webp"
+        },
+        {
+            "Nombre": "Jamon de Espalda",
+            "Marca": "Alibal",
+            "Calidad": "4.5",
+            "ImgSrc": "/images/JAMON_ESPALDA.webp"
+        },
+        {
+            "Nombre": "Jamon Ahumado",
+            "Marca": "Alibal",
+            "Calidad": "4.5",
+            "ImgSrc": "/images/espaldaAlibal.webp"
+        },
+        {
+            "Nombre": "Mortadela de Tapara",
+            "Marca": "CerdoPack",
+            "Calidad": "5",
+            "ImgSrc": "/images/mortadelaTapara.webp"
+        },
+        {
+            "Nombre": "Mortadela Extra",
+            "Marca": "Ricci",
+            "Calidad": "5",
+            "ImgSrc": "/images/MortadelaExtra.webp"
+        },
+        {
+            "Nombre": "Bologna de Pollo",
+            "Marca": "Alibal",
+            "Calidad": "4.5",
+            "ImgSrc": "/images/bologna-punta-de-monte.webp"
+        }
+    ]
+}
